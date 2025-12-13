@@ -49,5 +49,5 @@ W folderze `zdj/` znajdują się wizualizacje algorytmów omawianych na lekcjach
 ## ⚙️ Informacje Techniczne
 * **Język:** Python 3.11
 * **Struktura projektu:**
-    * `main.py` - punkt startowy aplikacji (obecnie nieużywany).
+    * `main.py` - selektor lekji do uruchomienia aby w replit można było uruchomić konkretny plik.
     * `.replit`, `uv.lock`, `pyproject.toml` - pliki konfiguracyjne środowiska Replit i menedżera pakietów UV.
