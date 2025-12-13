@@ -108,7 +108,7 @@ print()
   
 i= 10
 while i >= 2:
-  if i % 3 != 0:
+  if i % 3 == 0:
     i -=1 
     continue
   print(i, end=" ")
