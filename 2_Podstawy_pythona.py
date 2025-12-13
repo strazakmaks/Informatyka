@@ -39,9 +39,10 @@ print(f"dzielenie z resztą{a/b}")
 print(f"dzielenie całkowite {a//b}")
 print(f"reszta z dzielenia {a%b}")
 print(f"potęgowanie {a**b}")
-'''
 
 input() - instrukcja wejścia
+'''
+#Napisz program który wczyta imię, nazwisko i wiek użytkownika i wypisze je na ekranie
 imie = input("podaj imię: ")
 nazwisko = input("podaj nazwisko: ")
 wiek = int(input("podaj wiek: "))
