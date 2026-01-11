@@ -2,10 +2,10 @@
 Temat: Podstawy pythona
 Cele lekcji:
 Uczeń:
-podaje typy danych
-wykorzystuje w zapisie wyrażeń operatory arytmetyczne
-nazywa zmienne i przypisuje im wartości
-zna instrukcje wejścia i wyjścia
+- podaje typy danych
+- wykorzystuje w zapisie wyrażeń operatory arytmetyczne
+- nazywa zmienne i przypisuje im wartości
+- zna instrukcje wejścia i wyjścia
 
 Python jest językiem zewnętrzym, interpretowanym, wysokiego poziomu.
 Jest niezrozumiały dla procesora, dlatego musi być tłumaczony.
