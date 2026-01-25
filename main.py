@@ -8,6 +8,7 @@ print("4. Instrukcje warunkowe")
 print("5. Instrukcje iteracyjne")
 print("6. Funkcje w Pythonie")
 print("7. Algorytm Euklidesa")
+print("8. Zadanie (NWW i NWD)")
 
 wybor = input("Twój wybór (1-8): ")
 
