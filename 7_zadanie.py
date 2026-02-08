@@ -1,7 +1,6 @@
 # ZAD. 1 Napisz funkcję dodawania ułamków zwykłych. Wynikiem funkcji ma być ułamek przedstawiony w najprostszej postaci. Nie zawsze bedzie możliowść wyciągniecia całości z ułamka. Wykorzytaj NWW do skrócenia ułamków, oraz NWD do wyciągnięcia całości z ułamka.
 
 licznik1 = int(input("Podaj pierwszy licznik: "))
-mianownik1 = int(input("Podaj pierwszy mianownik: "))
 while True:
     mianownik1 = int(input("Podaj pierwszy mianownik: "))
     if mianownik1 == 0:
@@ -10,7 +9,6 @@ while True:
         break
 
 licznik2 = int(input("Podaj drugi licznik: "))
-mianownik2 = int(input("Podaj drugi mianownik: "))
 while True:
     mianownik2 = int(input("Podaj pierwszy mianownik: "))
     if mianownik2 == 0:

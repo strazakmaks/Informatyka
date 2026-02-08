@@ -8,7 +8,8 @@ print("4. Instrukcje warunkowe")
 print("5. Instrukcje iteracyjne")
 print("6. Funkcje w Pythonie")
 print("7. Algorytm Euklidesa")
-print("8. Zadanie (NWW i NWD)")
+print("7.1. Zadanie (NWW i NWD)")
+print("8. Badanie czy liczba jest pierwsza")
 
 wybor = input("Twój wybór (1-8): ")
 
@@ -26,7 +27,9 @@ elif wybor == "6":
     os.system("python3 6_Funkcje_w_pythone.py")
 elif wybor == "7":
     os.system("python3 7_Algorytm_Eukildesa.py")
+elif wybor == "7.1":
+    os.system("python3 7_zadanie.py")
 elif wybor == "8":
-    os.system("python3 zadanie.py")
+    os.system("python3 8_Badanie_czy_liczba_jest_pierwsza.py")
 else:
     print("Nieprawidłowy wybór")
